@@ -1,3 +1,3 @@
 # magic_workout_app
 
-A new Flutter project.
+Using this app you can add a workout and also view and edit your workouts list.
